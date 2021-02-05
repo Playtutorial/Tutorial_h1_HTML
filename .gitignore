@@ -33,6 +33,6 @@
 #include <iostream>
 Using namespace std;
 Int main() {
-Cout << “hello”
+Cout << “hello”;
 return 0;
 }
